@@ -1,8 +1,3 @@
-"""
-EROSION CORE v1.0
-A 100% English Python-based language for beginners
-"""
-
 import re
 
 def translate(erosion_code):
